@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/palai-palai/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Palai Palai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/palai-palai/) |
+| **Get License** | [Official Music Licensing for Palai Palai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/palai-palai/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন এক মায়ায় আমি দিশেহারা আজ
+> বুকের ভেতর প্রেমের যেন নামলো কারুকাজ
+> চোখে চোখে ডুব দিয়েছি মাতাল এ হাওয়ায়
+> কাছে এসো মন যে আমার শুধু তোমায় চায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
