@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/palai-palai/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Palai Palai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/palai-palai/) |
+| **Get License** | [Commercial Licensing for Palai Palai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/palai-palai/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1348)
 
 ---
 
