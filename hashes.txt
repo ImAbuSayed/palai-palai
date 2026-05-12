@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Palai Palai
+
+This log tracks the cryptographic history and versioning for the song **Palai Palai** (palai-palai).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T08:34:08.217330 | `v1` | `81a05dc30fc88a88e7e8fb223bc2ef1be1dea1d301a55b70f97549b7e7c22e52` | `60e76a03e6dfcb9be7a8fe83b8c8b259bf07cce5a1d2fe68f229961481a5e78a` | `2026-05-12_palai-palai-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
